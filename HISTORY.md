@@ -1,10 +1,23 @@
 unreleased
 ==========
 
+  * Add nginx as a source
   * Add `application/json-seq`
   * Add `application/rdap+json`
   * Add `application/vnd.gov.sk.e-form+xml`
   * Add `application/vnd.ims.imsccv1p3`
+  * Add `application/x-cocoa`
+  * Add `application/x-java-archive-diff`
+  * Add `application/x-makeself`
+  * Add `application/x-perl`
+  * Add `application/x-pilot`
+  * Add `application/x-redhat-package-manager`
+  * Add `application/x-sea`
+  * Add `audio/x-m4a`
+  * Add `audio/x-realaudio`
+  * Add `image/x-jng`
+  * Add `image/x-ms-bmp`
+  * Add `text/mathml`
 
 1.5.0 / 2014-12-30
 ==================
